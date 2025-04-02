@@ -146,4 +146,4 @@ These tools allow you to drag and drop files between your local computer and HYA
 
 ## Assignment
 
-Upload the `big_data.txt` file created in the fourth task to canvas.
+Complete the Canvas Week 1 assignment quiz. Then, upload the big_data.txt file created in the fourth task to the quiz.
